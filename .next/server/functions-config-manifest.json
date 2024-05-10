@@ -1,0 +1,1 @@
+{"version":1,"functions":{"/api/collections":{},"/api/orders/customers/[customerId]":{},"/api/orders/[orderId]":{},"/api/collections/[collectionId]":{},"/api/orders":{},"/api/products/[productId]/related":{},"/api/search/[query]":{},"/api/webhooks":{},"/api/products/[productId]":{},"/api/products":{},"/orders":{},"/customers":{}}}
